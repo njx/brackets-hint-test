@@ -1,0 +1,14 @@
+{
+    "name": "brackets-hint-test",
+    "title": "Code Hint Stress Test",
+    "version": "0.1.0",
+    "description": "Automatically pops up code hints in random places in the current document. Turn on and off with View > Stress Code Hints.",
+    "homepage": "https://github.com/njx/brackets-hint-test",
+    "files": [
+        "main.js",
+        "PromiseQueue.js"
+    ],
+    "engines": {
+        "brackets": ">0.26.0"
+    }
+}
